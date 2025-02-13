@@ -1,0 +1,18 @@
+.odd-numbers {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+.odd-numbers.cooler{
+    background-color: pink;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+#one-id{
+    color: blue;
+    font-size: 36px;
+}
+#another-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
